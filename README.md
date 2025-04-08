@@ -1,6 +1,8 @@
 # Library Management System
 
-![Library Management System Logo](./LibraryManagementSystem/LibraryManagementSystem/Assets/library_logo.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/885f779d-8f69-49e6-ad74-11bdab832534" alt="Image">
+</p>
 
 ## Introduction
 
@@ -23,22 +25,24 @@ This application is developed using C# and Windows Forms, featuring a modern, in
 ## Screenshots
 
 ### Login Screen
-![Login Screen](./screenshots/login_screen.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a817f089-9e5d-4985-b134-00fb383348d8" alt="Image">
+</p>
 
 ### Main Menu
-![Main Menu](./screenshots/main_menu.png)
-
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Image](https://github.com/user-attachments/assets/23a70923-a6f1-4bb2-a3a0-6d2637b9b4fa)
 
 ### Add Books
-![Add Books](./screenshots/add_books.png)
+![Image](https://github.com/user-attachments/assets/2936d10c-75e9-4d8a-a259-b8aeeac0e7c8)
 
 ### Issue Books
-![Issue Books](./screenshots/issue_books.png)
+![Image](https://github.com/user-attachments/assets/8ecb9336-c86b-4196-a869-711153be0ecd)
 
 ### Return Books
-![Return Books](./screenshots/return_books.png)
+![Image](https://github.com/user-attachments/assets/167c5fac-3671-437d-a87b-840964936f46)
+
+### Book Types
+![Image](https://github.com/user-attachments/assets/eec7d2a6-995a-4a07-9c34-6a25addabf2f)
 
 ## Demo Video
 
