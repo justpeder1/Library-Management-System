@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\library-management-system-using-csharp-main\\librarymanagementsystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\bookstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\dataissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dataissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\dataaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dataaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\bookstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\RegisterForm.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\RegisterForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:36:51.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\RegisterForm.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\RegisterForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:36:49.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:36:40.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:36:38.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataIssueBooks.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\DataIssueBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\DataIssueBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\DataIssueBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\DataIssueBooks.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:35:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:11:43.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:11:42.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Dashboard.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Dashboard.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:52:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Dashboard.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\Dashboard.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:52:31.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BooksType.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\BooksType.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\BooksType.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\BooksType.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\BooksType.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAIwI8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:24:23.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksType.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\BooksType.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\BooksType.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\BooksType.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\BooksType.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:24:20.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnBooks.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\ReturnBooks.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAgwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:27:08.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReturnBooks.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\ReturnBooks.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:27:06.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataAddBooks.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\DataAddBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\DataAddBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\DataAddBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\DataAddBooks.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:13:21.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IssueBooks.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\IssueBooks.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAwwIEBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:54:04.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IssueBooks.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\IssueBooks.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:54:02.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddBooks.cs",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAiwD0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:53:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddBooks.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.cs",
+              "ToolTip": "D:\\Library-Management-System-using-CSharp-main\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:51:48.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
